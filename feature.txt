@@ -1,0 +1,2 @@
+This is a new feature.
+I have created an imaginary feature just to test branching.
